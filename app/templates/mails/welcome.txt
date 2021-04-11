@@ -1,0 +1,4 @@
+Olá, {{ email }}
+Obrigado por se cadastrar na nossa aplicação
+Atenciosamente,
+Administrador
